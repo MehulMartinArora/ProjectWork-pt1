@@ -1,0 +1,13 @@
+div .payment-methods title {
+  color: black !important;
+  display: inline-block;
+}
+
+.pay img {
+  display: inline-block;
+  margin-right: 16%;
+}
+
+.pay {
+  background-color: #b0a16e;
+}
